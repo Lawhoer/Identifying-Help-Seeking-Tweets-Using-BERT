@@ -1,0 +1,15 @@
+{
+    "data_path": "data/database.csv",
+    "val_size": 0.2,
+    "pretrained_model": "dbmdz/bert-base-turkish-cased",
+    "max_len": 128,
+    "batch_size": 16,
+    "epochs": 3,
+    "learning_rate": 2e-05,
+    "seed": 42,
+    "num_workers": 2,
+    "output_dir": "experiments",
+    "use_gpu": false,
+    "fp16": false,
+    "warmup_steps": 50
+}
