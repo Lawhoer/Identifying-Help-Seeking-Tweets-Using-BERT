@@ -96,7 +96,7 @@ python app.py --model_path expr --port 5000
 
 Tarayıcınızda `http://localhost:5000` adresine giderek web arayüzünü kullanabilirsiniz.
 
-![Web Arayüzü](docs/web_interface.png)
+![resim](https://github.com/user-attachments/assets/fdf6e5e0-c0e1-432f-b001-941b3d55b0a7)
 
 ## API Kullanımı
 
