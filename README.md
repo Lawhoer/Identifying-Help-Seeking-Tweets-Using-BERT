@@ -126,3 +126,5 @@ text = "Adres: Malatya Battalgazi İnönü Caddesi No:35, yardım bekliyoruz, 3 
 label, score = predict(model, tokenizer, text, device)
 print(f"Tahmin: {label}, Skor: {score:.4f}")
 ``` 
+Yardım Edenler 
+Yunus Emre Maral
